@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 233690
+Build-Jdk: 11.0.2
+Implementation-Title: trail
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ust.demo1
+Implementation-URL: https://spring.io/projects/spring-boot/trail
+Created-By: Maven Integration for Eclipse
+
